@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://benteriale.github.io/sitemap
+Sitemap: https://benteriale.github.io/app/sitemap
+Sitemap: https://benteriale.github.io/assets/sitemap
+Sitemap: https://benteriale.github.io/css/sitemap
+Sitemap: https://benteriale.github.io/includes/sitemap
+Sitemap: https://benteriale.github.io/item/sitemap
+Sitemap: https://benteriale.github.io/src/sitemap
